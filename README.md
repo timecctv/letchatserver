@@ -1,0 +1,2 @@
+# letchatserver
+一个工作在nginx_tcp中的集群聊天服务器，数据库用mysql部署，网络通信采用muduo和json消息作为通信协议
